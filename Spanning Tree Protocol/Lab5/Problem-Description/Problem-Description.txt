@@ -1,0 +1,7 @@
+Type of assignment : Lab
+Description : See the lab5.odt file; lab to be done INDIVIDUALLY
+Published on : 2018-02-19 06:30:00+00:00
+Deadline : 2018-03-05 18:29:00+00:00
+Freezing Deadline : 2018-03-05 19:00:00+00:00
+Programming language : C++
+Files to be submitted : spanningTree.cpp bridge.cpp bridge.h
